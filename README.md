@@ -23,7 +23,10 @@ As a company Group J offers highly personalized financial solutions specializing
 
 ## Before
 
-![Group J's Home Page before website update. The website is remniscent of the 90s. There is a large banner that says Group J with an ombre yellow background. There is a gold rectangle below Group J that says "Healthcare Financial Solutions". Just below that there is a black banner with some links, a wall of text and an image of some hospital staff.](/images/groupj-home.png)    ![Group J's about page is almost the same as their home page except the photo is of a hand reaching towards the camera while a flurry of papers flies around. There is a doctor's stethoscope indicating this is a healthcare photo.](/images/groupj-about.png)
+![Group J's Home Page before website update](/images/groupj-home.png)    ![Group J's About Page before website update](/images/groupj-about.png)
 
-## After
+## Process
 
+###### Wireframe
+
+![Wireframe of redesign](/images/groupj-lofi.png)
